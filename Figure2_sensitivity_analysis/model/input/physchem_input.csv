@@ -1,0 +1,89 @@
+compound,CAS,ionization,pKa1,pKa2,logP,logD,method.phys.chem,quat.nitrogen
+"2,4-D",94-75-7,monoproticAcid,2.87,NA,2.649834341,-0.024383446,ADMET,No
+Alachlor,15972-60-8,neutral,NA,NA,2.765800925,2.765800925,ADMET,No
+Alprazolam,28981-97-7,diproticBase,0.93,3.01,2.629403412,2.629385664,ADMET,No
+Bensulide,741-58-2,monoproticAcid,10.75,NA,4.149269522,4.149073897,ADMET,No
+Bisphenol A,80-05-7,diproticAcid,9.8,10.47,3.644984609,3.643276871,ADMET,No
+Boscalid,188425-85-6,zwitterionic,10.74,0.73,4.593157546,4.592958684,ADMET,No
+Bosentan,147536-97-8,zwitterionic,6.14,3.24,4.06953122,2.786720941,ADMET,No
+Carbaryl,63-25-2,monoproticAcid,10.84,NA,2.510993501,2.510836848,ADMET,No
+Carbendazim,10605-21-7,zwitterionic,9.53,4.03,1.368088708,1.364757586,ADMET,No
+Chloridazon,1698-60-8,diproticBase,-1.65,0.72,1.218185265,1.218185176,ADMET,No
+Chlorpyrifos,2921-88-2,monoproticBase,-2.86,NA,4.965527483,4.965527483,ADMET,No
+Coumarin,91-64-5,neutral,NA,NA,1.885303037,1.885303037,ADMET,No
+Curcumin,458-37-7,diproticAcid,8.32,8.96,2.994023384,2.94327661,ADMET,No
+Cyclanilide,113136-77-9,diproticAcid,2.83,10.87,2.740781362,0.244740122,ADMET,No
+Daidzein,486-66-8,diproticAcid,8.45,9.51,2.575445066,2.538457114,ADMET,No
+Diazinon-o-analog,962-58-3,diproticBase,-5.7,3.85,2.053798979,2.053677425,ADMET,No
+Diclofenac,15307-86-5,zwitterionic,3.87,-0.32,4.434471232,1.172827832,ADMET,No
+Diltiazem,42399-41-7,monoproticBase,8.33,NA,3.649400586,2.672439007,ADMET,No
+Dimethenamid,87674-68-8,neutral,NA,NA,2.431712814,2.431712814,ADMET,No
+Etoxazole,153233-91-1,monoproticBase,4.96,NA,5.380776795,5.379212039,ADMET,No
+Fenarimol,60168-88-9,diproticBase,-3.43,2.07,3.313004299,3.313002252,ADMET,No
+Flufenacet,142459-58-3,diproticBase,-7.1,-1.77,3.616755328,3.616755327,ADMET,No
+Fluvastatin,93957-54-1,monoproticAcid,4.66,NA,3.766797245,1.056538138,ADMET,No
+Formetanate hydrochloride,23422-53-9,zwitterionic,11.13,7.73,1.618139929,1.134021969,ADMET,No
+Genistein,446-72-0,diproticAcid,7.68,9.3,2.44906833,2.266033826,ADMET,No
+Imazalil,35554-44-0,monoproticBase,6.55,NA,3.49264757,3.434713142,ADMET,No
+Imidacloprid,138261-41-3,zwitterionic,11.17,1.63,0.526290251,0.526215889,ADMET,No
+Metoprolol,51384-51-1,monoproticBase,9.72,NA,2.036067971,-0.127632491,ADMET,No
+Midazolam,59467-70-8,diproticBase,0.84,4.57,3.562728123,3.562083097,ADMET,No
+Novaluron,116714-46-6,diproticAcid,9.09,10.35,5.095149283,5.086434659,ADMET,No
+Ochratoxin A,303-47-9,diproticAcid,3.51,8.45,4.098357946,1.683463359,ADMET,No
+Pentadecafluorooctanoic acid,335-67-1,monoproticAcid,1.51,NA,5.079128965,1.423742586,ADMET,No
+Permethrin,52645-53-1,neutral,NA,NA,6.967767983,6.967767983,ADMET,No
+Phenytoin,57-41-0,diproticAcid,8,11.04,2.090361288,1.993284684,ADMET,No
+Propamocarb hydrochloride,25606-41-1,zwitterionic,11.27,9.16,1.454126199,0.02325079,ADMET,No
+Propyzamide,23950-58-5,monoproticAcid,10.56,NA,3.383914572,3.383615175,ADMET,No
+Pyrithiobac sodium,123343-16-8,zwitterionic,3.01,2.25,3.107342413,-0.205182276,ADMET,No
+Resmethrin,10453-86-8,neutral,NA,NA,6.117036378,6.117036378,ADMET,No
+Resveratrol,501-36-0,diproticAcid,8.91,9.61,3.093578833,3.080422266,ADMET,No
+Rosuvastatin,287714-41-4,zwitterionic,4.48,2.26,2.13928013,-0.74271436,ADMET,No
+S-Bioallethrin,28434-00-6,neutral,NA,NA,4.654500289,4.654500289,ADMET,No
+Simazine,122-34-9,diproticBase,-1.5,1.83,2.356932234,2.356931063,ADMET,No
+Tolbutamide,64-77-7,diproticAcid,5.37,10.87,2.27305028,0.967635865,ADMET,No
+Valproic acid,99-66-1,monoproticAcid,4.92,NA,2.609716666,0.180259942,ADMET,No
+"2,4-D",94-75-7,monoproticAcid,2.81,NA,2.5,-0.99,BASF,No
+Alachlor,15972-60-8,neutral,NA,NA,3.59,3.59,BASF,No
+Alprazolam,28981-97-7,diproticBase,1.45,5.01,3.02,3.02,BASF,No
+Bensulide,741-58-2,monoproticAcid,10.18,NA,3.45,3.45,BASF,No
+Bisphenol A,80-05-7,diproticAcid,9.78,10.39,4.04,4.04,BASF,No
+Boscalid,188425-85-6,zwitterionic,14.27,-0.11,4.92,4.92,BASF,No
+Bosentan,147536-97-8,zwitterionic,5.8,-0.17,4.94,3.98,BASF,No
+Carbaryl,63-25-2,monoproticAcid,14.77,NA,2.46,2.46,BASF,No
+Carbendazim,10605-21-7,zwitterionic,9.7,4.28,1.8,1.8,BASF,No
+Chloridazon,1698-60-8,monoproticBase,-1.77,NA,1.11,1.11,BASF,No
+Chlorpyrifos,2921-88-2,neutral,NA,NA,4.78,4.78,BASF,No
+Coumarin,91-64-5,neutral,NA,NA,1.78,1.78,BASF,No
+Curcumin,458-37-7,diproticAcid,8.79,9.54,3.76,4.12,BASF,No
+Cyclanilide,113136-77-9,diproticAcid,3.39,12.53,2.95,-0.46,BASF,No
+Daidzein,486-66-8,diproticAcid,6.48,8.96,2.73,1.77,BASF,No
+Diazinon-o-analog,962-58-3,monoproticBase,3.81,NA,3.38,3.38,BASF,No
+Diclofenac,15307-86-5,monoproticAcid,4,NA,4.26,1.1,BASF,No
+Diltiazem,42399-41-7,zwitterionic,12.86,8.18,2.73,1.89,BASF,No
+Dimethenamid,87674-68-8,neutral,NA,NA,2.92,2.92,BASF,No
+Etoxazole,153233-91-1,monoproticBase,0.74,NA,5.62,5.62,BASF,No
+Fenarimol,60168-88-9,zwitterionic,12.13,1.04,3.92,3.92,BASF,No
+Flufenacet,142459-58-3,monoproticAcid,12.58,NA,3.22,3.22,BASF,No
+Fluvastatin,93957-54-1,diproticAcid,4.54,14.64,3.83,1.05,BASF,No
+Formetanate hydrochloride,23422-53-9,zwitterionic,14.77,8.89,1.08,-0.25,BASF,No
+Genistein,446-72-0,diproticAcid,6.55,8.09,3.08,2.12,BASF,No
+Imazalil,35554-44-0,monoproticBase,6.48,NA,3.76,3.72,BASF,No
+Imidacloprid,138261-41-3,zwitterionic,15.67,-0.12,0.53,0.53,BASF,No
+Metoprolol,51384-51-1,zwitterionic,14.09,9.67,1.76,-0.47,BASF,No
+Midazolam,59467-70-8,diproticBase,3.41,6.19,3.97,3.95,BASF,No
+Novaluron,116714-46-6,monoproticAcid,9.05,NA,6.24,6.23,BASF,No
+Ochratoxin A,303-47-9,diproticAcid,3.17,7.95,4.61,1.05,BASF,No
+Pentadecafluorooctanoic acid,335-67-1,monoproticAcid,-4.2,NA,5.11,1.58,BASF,No
+Permethrin,52645-53-1,neutral,NA,NA,5.7,5.7,BASF,No
+Phenytoin,57-41-0,monoproticAcid,8.49,NA,2.15,2.11,BASF,No
+Propamocarb hydrochloride,25606-41-1,monoproticBase,9.3,NA,0.77,-1.12,BASF,No
+Propyzamide,23950-58-5,zwitterionic,14.21,-1.52,3.18,3.18,BASF,No
+Pyrithiobac sodium,123343-16-8,zwitterionic,2.3,1.44,3.7,0.53,BASF,No
+Resmethrin,10453-86-8,neutral,NA,NA,5.07,5.07,BASF,No
+Resveratrol,501-36-0,diproticAcid,8.99,9.63,3.4,3.39,BASF,No
+Rosuvastatin,287714-41-4,zwitterionic,4,-1.62,1.92,-1.24,BASF,No
+S-Bioallethrin,28434-00-6,neutral,NA,NA,4.06,4.06,BASF,No
+Simazine,122-34-9,zwitterionic,14.75,4.23,1.78,1.78,BASF,No
+Tolbutamide,64-77-7,monoproticAcid,4.33,NA,2.3,1.36,BASF,No
+Valproic acid,99-66-1,monoproticAcid,5.14,NA,2.8,0.56,BASF,No

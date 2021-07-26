@@ -1,0 +1,45 @@
+compound,CAS,SMILES,P-glycoprotein substrate,Cyp3A4 substrate
+"2,4-D",94-75-7,OC(=O)COC1=C(Cl)C=C(Cl)C=C1,Non-substrate,Non-substrate
+Alachlor,15972-60-8,CCC1=CC=CC(CC)=C1N(COC)C(=O)CCl,Non-substrate,Substrate
+Alprazolam,28981-97-7,CC1=NN=C2CN=C(C3=CC=CC=C3)C3=CC(Cl)=CC=C3N12,Non-substrate,Substrate
+Bensulide,741-58-2,CC(C)OP(=S)(OC(C)C)SCCNS(=O)(=O)C1=CC=CC=C1,Non-substrate,Non-substrate
+Bisphenol A,80-05-7,CC(C)(C1=CC=C(O)C=C1)C1=CC=C(O)C=C1,Non-substrate,Substrate
+Boscalid,188425-85-6,ClC1=CC=C(C=C1)C1=C(NC(=O)C2=C(Cl)N=CC=C2)C=CC=C1,Non-substrate,Non-substrate
+Bosentan,147536-97-8,COC1=CC=CC=C1OC1=C(NS(=O)(=O)C2=CC=C(C=C2)C(C)(C)C)N=C(N=C1OCCO)C1=NC=CC=N1,Non-substrate,Substrate
+Carbaryl,63-25-2,CNC(=O)OC1=C2C=CC=CC2=CC=C1,Non-substrate,Substrate
+Carbendazim,10605-21-7,COC(=O)NC1=NC2=CC=CC=C2N1,Non-substrate,Non-substrate
+Chloridazon,1698-60-8,ClC1C(=N)C=NN(C1=O)C1=CC=CC=C1,Non-substrate,Substrate
+Chlorpyrifos,2921-88-2,CCOP(=S)(OCC)OC1=NC(Cl)=C(Cl)C=C1Cl,,
+Coumarin,91-64-5,O=C1OC2=C(C=CC=C2)C=C1,,
+Curcumin,458-37-7,COC1=CC(C=CC(=O)CC(=O)C=CC2=CC(OC)=C(O)C=C2)=CC=C1O,,
+Cyclanilide,113136-77-9,OC(=O)C1(CC1)C(=O)NC1=CC=C(Cl)C=C1Cl,,
+Daidzein,486-66-8,OC1=CC=C(C=C1)C1=COC2=C(C=CC(O)=C2)C1=O,,
+Diazinon-o-analog,962-58-3,CCOP(=O)(OCC)OC1=NC(=NC(C)=C1)C(C)C,Non-substrate,Substrate
+Diclofenac,15307-86-5,OC(=O)CC1=C(NC2=C(Cl)C=CC=C2Cl)C=CC=C1,,
+Diltiazem,42399-41-7,COC1=CC=C(C=C1)C1SC2=CC=CC=C2N(CCN(C)C)C(=O)C1OC(C)=O,,
+Dimethenamid,87674-68-8,COCC(C)N(C(=O)CCl)C1=C(C)SC=C1C,,
+Etoxazole,153233-91-1,CCOC1=C(C=CC(=C1)C(C)(C)C)C1COC(=N1)C1=C(F)C=CC=C1F,,
+Fenarimol,60168-88-9,OC(C1=CC=C(Cl)C=C1)(C1=CN=CN=C1)C1=CC=CC=C1Cl,,
+Flufenacet,142459-58-3,CC(C)N(C(=O)COC1=NN=C(S1)C(F)(F)F)C1=CC=C(F)C=C1,Non-substrate,Substrate
+Fluvastatin,93957-54-1,CC(C)N1C(C=CC(O)CC(O)CC(O)=O)=C(C2=CC=CC=C12)C1=CC=C(F)C=C1,,
+Formetanate hydrochloride,23422-53-9,CNC(=O)OC1=CC=CC(=C1)N=CN(C)C,,
+Genistein,446-72-0,OC1=CC=C(C=C1)C1=COC2=C(C(O)=CC(O)=C2)C1=O,Substrate,Non-substrate
+Imazalil,35554-44-0,ClC1=CC(Cl)=C(C=C1)C(CN1C=CN=C1)OCC=C,,
+Imidacloprid,138261-41-3,[O-][N+](=O)\N=C1/NCCN1CC1=CN=C(Cl)C=C1,,
+Metoprolol,51384-51-1,COCCC1=CC=C(OCC(O)CNC(C)C)C=C1,,
+Midazolam,59467-70-8,CC1=NC=C2CN=C(C3=CC=CC=C3F)C3=CC(Cl)=CC=C3N12,,
+Novaluron,116714-46-6,FC(OC(F)(F)F)C(F)(F)OC1=C(Cl)C=C(NC(=O)NC(=O)C2=C(F)C=CC=C2F)C=C1,,
+Ochratoxin A,303-47-9,CC1CC2=C(Cl)C=C(C(=O)NC(CC3=CC=CC=C3)C(O)=O)C(O)=C2C(=O)O1,Substrate,Substrate
+Pentadecafluorooctanoic acid,335-67-1,OC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F,,
+Permethrin,52645-53-1,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCC1=CC(OC2=CC=CC=C2)=CC=C1,,
+Phenytoin,57-41-0,O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1,,
+Propamocarb hydrochloride,25606-41-1,CCCOC(=O)NCCCN(C)C,,
+Propyzamide,23950-58-5,CC(C)(NC(=O)C1=CC(Cl)=CC(Cl)=C1)C#C,,
+Pyrithiobac sodium,123343-16-8,COC1=CC(OC)=NC(SC2=C(C(O)=O)C(Cl)=CC=C2)=N1,,
+Resmethrin,10453-86-8,CC(C)=CC1C(C(=O)OCC2=COC(CC3=CC=CC=C3)=C2)C1(C)C,,
+Resveratrol,501-36-0,OC1=CC=C(C=CC2=CC(O)=CC(O)=C2)C=C1,,
+Rosuvastatin,287714-41-4,CC(C)C1=NC(=NC(C2=CC=C(F)C=C2)=C1C=CC(O)CC(O)CC(O)=O)N(C)S(C)(=O)=O,,
+S-Bioallethrin,28434-00-6,CC(C)=CC1C(C(=O)OC2CC(=O)C(CC=C)=C2C)C1(C)C,,
+Simazine,122-34-9,CCNC1=NC(NCC)=NC(Cl)=N1,,
+Tolbutamide,64-77-7,CCCCNC(=O)NS(=O)(=O)C1=CC=C(C)C=C1,,
+Valproic acid,99-66-1,CCCC(CCC)C(O)=O,,

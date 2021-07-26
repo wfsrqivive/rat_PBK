@@ -1,0 +1,108 @@
+compound,CAS,Clint,unit.Clint,method.Clint,reference.Clint,original.reference.Clint,conc.enzymes.Clint,unit.conc.enzymes.Clint
+"2,4-D",94-75-7,0,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+"2,4-D",94-75-7,0,ul/min/mg S9,S9,this work,this work,2,mg S9/ml
+"2,4-D",94-75-7,13.0924556,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Alachlor,15972-60-8,41.66,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Alachlor,15972-60-8,66.7,ul/min/mg S10,S9,this work,this work,2,mg S9/ml
+Alachlor,15972-60-8,75.80093863,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Alprazolam,28981-97-7,28.86875,ul/min/10^6 cells,hep,httk,Wood 2017,1,10^6 cell/ml
+Alprazolam,28981-97-7,99.68302196,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Bensulide,741-58-2,37.52,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Bensulide,741-58-2,121.5008044,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Bisphenol A,80-05-7,331.8,ul/min/mg S11,S9,this work,this work,0.5,mg S9/ml
+Bisphenol A,80-05-7,2173.27746,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Boscalid,188425-85-6,12.04,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Boscalid,188425-85-6,4.05,ul/min/mg S12,S9,this work,this work,2,mg S9/ml
+Boscalid,188425-85-6,37.77262522,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Bosentan,147536-97-8,7.59375,ul/min/10^6 cells,hep,httk,Wood 2017,1,10^6 cell/ml
+Bosentan,147536-97-8,133.613038,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Carbaryl,63-25-2,14.97,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Carbaryl,63-25-2,21.8,ul/min/mg S20,S9,this work,this work,2,mg S9/ml
+Carbaryl,63-25-2,60.82787998,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Carbendazim,10605-21-7,31.7,ul/min/10^6 cells,hep,httk,Honda 2019,0.5,10^6 cell/ml
+Carbendazim,10605-21-7,22.07626047,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Chloridazon,1698-60-8,0,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Chloridazon,1698-60-8,32.24217308,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Chlorpyrifos,2921-88-2,184,ul/min/10^6 cells,hep,httk,Honda 2019,0.5,10^6 cell/ml
+Chlorpyrifos,2921-88-2,15.88435988,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Coumarin,91-64-5,0,ul/min/mg S13,S9,this work,this work,2,mg S9/ml
+Coumarin,91-64-5,111.8706625,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Curcumin,458-37-7,5580,ul/min/mg S21,S9,this work,this work,0.01,mg S9/ml
+Curcumin,458-37-7,14.56055693,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Cyclanilide,113136-77-9,0,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Cyclanilide,113136-77-9,10.90707373,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Daidzein,486-66-8,31.8,ul/min/10^6 cells,hep,httk,Honda 2019,0.5,10^6 cell/ml
+Daidzein,486-66-8,85.6,ul/min/mg S14,S9,this work,this work,0.5,mg S9/ml
+Daidzein,486-66-8,91.65969522,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Diazinon-o-analog,962-58-3,59.02,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Diazinon-o-analog,962-58-3,80.60976021,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Diclofenac,15307-86-5,72.2625,ul/min/10^6 cells,hep,httk,Wood 2017,1,10^6 cell/ml
+Diclofenac,15307-86-5,102,ul/min/mg S22,S9,this work,this work,0.25,mg S9/ml
+Diclofenac,15307-86-5,98.83962415,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Diltiazem,42399-41-7,245.775,ul/min/10^6 cells,hep,httk,Wood 2017,1,10^6 cell/ml
+Diltiazem,42399-41-7,44.54278132,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Dimethenamid,87674-68-8,101.82,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Dimethenamid,87674-68-8,209.1285383,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Etoxazole,153233-91-1,42.28,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Etoxazole,153233-91-1,345.187408,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Fenarimol,60168-88-9,1.57,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Fenarimol,60168-88-9,358.9867443,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Flufenacet,142459-58-3,40.92,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Flufenacet,142459-58-3,37.04723091,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Fluvastatin,93957-54-1,0,ul/min/mg S23,S9,this work,this work,2,mg S9/ml
+Fluvastatin,93957-54-1,317.630864,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Formetanate hydrochloride,23422-53-9,11.18,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Formetanate hydrochloride,23422-53-9,29.12920452,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Genistein,446-72-0,68,ul/min/10^6 cells,hep,httk,Honda 2019,0.5,10^6 cell/ml
+Genistein,446-72-0,41.6,ul/min/mg S16,S9,this work,this work,0.5,mg S9/ml
+Genistein,446-72-0,63.78597985,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Imazalil,35554-44-0,46.44,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Imazalil,35554-44-0,103.2,ul/min/mg S24,S9,this work,this work,2,mg S9/ml
+Imazalil,35554-44-0,83.09879763,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Imidacloprid,138261-41-3,0,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Imidacloprid,138261-41-3,0,ul/min/mg S25,S9,this work,this work,2,mg S9/ml
+Imidacloprid,138261-41-3,5.658551174,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Metoprolol,51384-51-1,18.9375,ul/min/10^6 cells,hep,httk,Wood 2017,1,10^6 cell/ml
+Metoprolol,51384-51-1,313,ul/min/mg S26,S9,this work,this work,1,mg S9/ml
+Metoprolol,51384-51-1,17.73533915,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Midazolam,59467-70-8,93.91666667,ul/min/10^6 cells,hep,httk,Wood 2017,1,10^6 cell/ml
+Midazolam,59467-70-8,164.3,ul/min/mg S17,S9,this work,this work,1,mg S9/ml
+Midazolam,59467-70-8,175.6229391,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Novaluron,116714-46-6,0,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Novaluron,116714-46-6,1.383788172,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Ochratoxin A,303-47-9,0,ul/min/mg S18,S9,this work,this work,2,mg S9/ml
+Ochratoxin A,303-47-9,13.76162417,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Pentadecafluorooctanoic acid,335-67-1,0,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Pentadecafluorooctanoic acid,335-67-1,11.9194891,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Permethrin,52645-53-1,54.7,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Permethrin,52645-53-1,13.69505228,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Phenytoin,57-41-0,14.35,ul/min/10^6 cells,hep,httk,Wood 2017,1,10^6 cell/ml
+Phenytoin,57-41-0,48.27710996,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Propamocarb hydrochloride,25606-41-1,0,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Propamocarb hydrochloride,25606-41-1,15.069093,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Propyzamide,23950-58-5,1.71,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Propyzamide,23950-58-5,11.13594049,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Pyrithiobac sodium,123343-16-8,1.95,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Pyrithiobac sodium,123343-16-8,26.00252233,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Resmethrin,10453-86-8,96.48,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Resmethrin,10453-86-8,34.47021915,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Resveratrol,501-36-0,1985,ul/min/mg S27,S9,this work,this work,0.1,mg S9/ml
+Resveratrol,501-36-0,787.2735613,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Rosuvastatin,287714-41-4,12,ul/min/10^6 cells,hep,httk,Wood 2017,1,10^6 cell/ml
+Rosuvastatin,287714-41-4,0,ul/min/mg S28,S9,this work,this work,2,mg S9/ml
+Rosuvastatin,287714-41-4,216.6955476,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+S-Bioallethrin,28434-00-6,134.36,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+S-Bioallethrin,28434-00-6,33.39179996,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Simazine,122-34-9,4.83,ul/min/10^6 cells,hep,httk,Wetmore 2013,0.5,10^6 cell/ml
+Simazine,122-34-9,40.29884361,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Tolbutamide,64-77-7,1.694583333,ul/min/10^6 cells,hep,httk,Wood 2017,1,10^6 cell/ml
+Tolbutamide,64-77-7,17.01735792,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Tolbutamide,64-77-7,0.03,ul/min/mg S9,S9,this work,this work,4,mg S9/ml
+Valproic acid,99-66-1,4.6,ul/min/10^6 cells,hep,httk,Honda 2019,0.5,10^6 cell/ml
+Valproic acid,99-66-1,70.39353687,ul/min/mg microsomes,in silico,CYP_RLM_CLint_bound,AMDT predictor,0.001,"NA, 0.001 added so that it does not influence the calculations"
+Resmethrin,10453-86-8,495,ul/min/mg S9,S9,this work,this work,0.1,mg S9/ml
+Formetanate hydrochloride,23422-53-9,3.8,ul/min/mg S9,S9,this work,this work,2,mg S9/ml
+Chloridazon,1698-60-8,0,ul/min/mg S9,S9,this work,this work,2,mg S9/ml
+Flufenacet,142459-58-3,6.1,ul/min/mg S9,S9,this work,this work,2,mg S9/ml
+Permethrin,52645-53-1,120.4,ul/min/mg S9,S9,this work,this work,0.5,mg S9/ml
+Novaluron,116714-46-6,0,ul/min/mg S9,S9,this work,this work,2,mg S9/ml
